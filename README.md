@@ -12,4 +12,5 @@ ec2_name = "project2-ec2"
 topic_name = "alarms"
 bucket_name ="kyrgyz-kazakh"
 email_address = "nursulu.0797@gmail.com"
+slack_webhook = "https://hooks.slack.com/services/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"
 ```

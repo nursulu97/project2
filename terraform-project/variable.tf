@@ -51,3 +51,7 @@ variable "email_address" {
     type = string
     description = "Please Provide your email address"
 }
+variable "slack_webhook" {
+    type = string
+    description = "Please Provide your slack webhook url"
+}
