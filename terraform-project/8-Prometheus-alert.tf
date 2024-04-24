@@ -1,3 +1,4 @@
+# This code for email 
 # resource "aws_prometheus_alert_manager_definition" "demo" {
 #   workspace_id = aws_prometheus_workspace.demo.id
 
@@ -16,6 +17,10 @@
 #           value: staging
 # EOF
 # }
+
+
+
+# This is for slack
 resource "aws_prometheus_alert_manager_definition" "demo" {
   workspace_id = aws_prometheus_workspace.demo.id
 
